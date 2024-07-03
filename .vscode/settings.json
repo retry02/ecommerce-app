@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.jsxSingleQuote": true,
+  "prettier.useTabs": true,
+  "prettier.semi": false,
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true
+}
